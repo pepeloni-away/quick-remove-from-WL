@@ -5,6 +5,8 @@
 // @grant       none
 // @version     1.0
 // @author      pploni
+// @downloadURL  https://github.com/pepeloni-away/quick-remove-from-WL/raw/main/quick-remove%20from%20WL.user.js
+// @updateURL    https://github.com/pepeloni-away/quick-remove-from-WL/raw/main/quick-remove%20from%20WL.user.js
 // @description remove videos from watch later with only 1 button press
 // ==/UserScript==
 
