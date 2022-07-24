@@ -195,8 +195,8 @@ function refreshList() {
         });
         
         const mouseMoveEvent = new MouseEvent('mousemove', {
-          clientX: element.getBoundingClientRect().left + 3,
-          clientY: element.getBoundingClientRect().top,
+          clientX: element.getBoundingClientRect().left /*+ 3*/,
+          clientY: element.getBoundingClientRect().top -3,
           bubbles: true,
           cancelable: true
         });
